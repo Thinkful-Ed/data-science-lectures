@@ -1,0 +1,311 @@
+Age,Pay Rate,State,Zip,Sex,MaritalDesc,CitizenDesc,Hispanic/Latino,RaceDesc,Days Employed,Reason For Term,Employment Status,Department,Position,Manager Name,Employee Source,Performance Score
+30,28.5,MA,1450,Female,Married,US Citizen,No,Black or African American,3317,N/A - still employed,Active,Admin Offices,Accountant I,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets
+34,23.0,MA,1460,Male,Divorced,US Citizen,No,Black or African American,1420,N/A - still employed,Active,Admin Offices,Accountant I,Brandon R. LeBlanc,Website Banner Ads,Fully Meets
+31,29.0,MA,2703,Male,Single,US Citizen,No,White,1154,N/A - still employed,Active,Admin Offices,Accountant I,Brandon R. LeBlanc,Internet Search,Fully Meets
+32,21.5,MA,2170,Female,Married,US Citizen,No,White,58,N/A - still employed,Active,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Pay Per Click - Google,N/A- too early to review
+30,16.56,MA,2330,Female,Single,US Citizen,No,White,940,N/A - still employed,Active,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Website Banner Ads,N/A- too early to review
+30,20.5,MA,1844,Female,Married,US Citizen,No,Asian,730,career change,Voluntarily Terminated,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets
+33,55.0,MA,1460,Male,Married,US Citizen,No,White,691,N/A - still employed,Active,Admin Offices,Shared Services Manager,Janet King,Monster.com,Fully Meets
+33,55.0,MA,2045,Male,Married,Eligible NonCitizen,No,Black or African American,1636,career change,Voluntarily Terminated,Admin Offices,Shared Services Manager,Janet King,Diversity Job Fair,Fully Meets
+31,34.95,MA,2468,Female,Married,US Citizen,No,Asian,1014,N/A - still employed,Active,Admin Offices,Sr. Accountant,Brandon R. LeBlanc,Diversity Job Fair,90-day meets
+39,34.95,MA,2050,Female,Married,US Citizen,no,White,3247,N/A - still employed,Active,Admin Offices,Sr. Accountant,Board of Directors,Other,Fully Meets
+63,80.0,MA,1902,Female,Married,US Citizen,Yes,White,1973,N/A - still employed,Active,Executive Office,President & CEO,Board of Directors,Pay Per Click - Google,Fully Meets
+38,65.0,MA,2067,Female,Single,US Citizen,No,White,2787,N/A - still employed,Active,IT/IS,CIO,Janet King,Employee Referral,Exceptional
+32,43.0,MA,2026,Female,Single,US Citizen,Yes,White,432,performance,Terminated for Cause,IT/IS,Database Administrator,Simon Roup,Search Engine - Google Bing Yahoo,Fully Meets
+46,48.5,MA,2127,Female,Single,US Citizen,No,White,27,"no-call, no-show",Terminated for Cause,IT/IS,Database Administrator,Simon Roup,Glassdoor,Fully Meets
+31,40.1,MA,1960,Male,Married,US Citizen,No,Black or African American,6,"no-call, no-show",Terminated for Cause,IT/IS,Database Administrator,Simon Roup,Employee Referral,N/A- too early to review
+34,34.0,MA,2493,Female,Single,US Citizen,No,White,972,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Glassdoor,N/A- too early to review
+31,40.0,MA,2301,Female,Married,US Citizen,No,Asian,1056,N/A - still employed,Leave of Absence,IT/IS,Database Administrator,Simon Roup,Glassdoor,90-day meets
+29,35.5,TX,78230,Male,Divorced,US Citizen,No,Black or African American,1112,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Diversity Job Fair,Exceptional
+33,41.0,MA,2747,Male,Married,US Citizen,No,White,517,performance,Voluntarily Terminated,IT/IS,Database Administrator,Simon Roup,Employee Referral,Fully Meets
+33,42.75,MA,1886,Female,Married,US Citizen,No,Asian,1112,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,Exceptional
+36,39.55,MA,1886,Female,Married,US Citizen,No,White,1014,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,Fully Meets
+31,42.2,MA,1810,Male,Married,US Citizen,No,White,972,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Pay Per Click - Google,N/A- too early to review
+30,45.0,MA,2452,Male,Divorced,US Citizen,No,Black or African American,299,hours,Voluntarily Terminated,IT/IS,Database Administrator,Simon Roup,Vendor Referral,90-day meets
+48,30.2,MA,2110,Male,Married,US Citizen,Yes,White,1056,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,90-day meets
+39,31.4,MA,2148,Female,Single,US Citizen,No,White,972,N/A - still employed,Active,IT/IS,Database Administrator,Simon Roup,Employee Referral,90-day meets
+37,65.0,MA,1460,Male,Single,US Citizen,No,Black or African American,2417,N/A - still employed,Active,IT/IS,IT Director,Jennifer Zamora,Professional Society,Exceptional
+45,62.0,MA,2481,Male,Single,US Citizen,No,White,1771,N/A - still employed,Active,IT/IS,IT Manager - DB,Jennifer Zamora,Professional Society,Fully Meets
+54,21.0,MA,1915,Male,Divorced,US Citizen,No,Two or more races,1395,hours,Voluntarily Terminated,IT/IS,IT Manager - DB,Jennifer Zamora,Diversity Job Fair,Fully Meets
+31,63.0,MA,2134,Male,Married,Eligible NonCitizen,Yes,Hispanic,2111,N/A - still employed,Active,IT/IS,IT Manager - Infra,Jennifer Zamora,Diversity Job Fair,Needs Improvement
+47,64.0,MA,1886,Male,Single,US Citizen,No,White,1421,N/A - still employed,Active,IT/IS,IT Manager - Support,Jennifer Zamora,Professional Society,Exceeds
+32,28.99,MA,2170,Male,Single,US Citizen,No,White,1908,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Glassdoor,Fully Meets
+49,31.4,CT,6040,Female,Single,US Citizen,No,White,2766,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Vendor Referral,Fully Meets
+29,26.0,CT,6070,Female,Single,US Citizen,Yes,Two or more races,2501,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Diversity Job Fair,Exceeds
+45,27.49,MA,2360,Female,Married,US Citizen,No,Black or African American,2361,N/A - still employed,Active,IT/IS,IT Support,Eric Dougall,Information Session,Fully Meets
+30,45.0,MA,1886,Male,Divorced,US Citizen,No,White,1056,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Glassdoor,90-day meets
+28,42.0,MA,2135,Male,Married,US Citizen,Yes,White,972,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Information Session,N/A- too early to review
+29,37.0,MA,2119,Female,Married,US Citizen,No,White,1056,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Employee Referral,90-day meets
+37,39.0,MA,2472,Female,Separated,US Citizen,Yes,White,1056,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Employee Referral,Fully Meets
+30,43.0,MA,2138,Male,Single,US Citizen,No,White,972,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Vendor Referral,N/A- too early to review
+39,27.0,MA,2048,Female,Married,US Citizen,No,White,1014,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Monster.com,Fully Meets
+37,47.0,MA,1773,Female,Married,US Citizen,No,White,1153,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Vendor Referral,Fully Meets
+30,28.0,MA,1420,Male,Married,US Citizen,No,White,127,medical issues,Voluntarily Terminated,IT/IS,Network Engineer,Peter Monroe,Monster.com,Fully Meets
+49,49.1,MA,2343,Male,Married,Eligible NonCitizen,No,White,972,N/A - still employed,Active,IT/IS,Network Engineer,Peter Monroe,Employee Referral,N/A- too early to review
+43,62.0,MA,2148,Male,Married,US Citizen,No,White,444,career change,Voluntarily Terminated,IT/IS,Sr. DBA,Simon Roup,Company Intranet - Partner,Fully Meets
+31,61.3,MA,1886,Female,Single,US Citizen,No,Black or African American,514,N/A - Has not started yet,Future Start,IT/IS,Sr. DBA,Simon Roup,Vendor Referral,N/A- too early to review
+53,58.2,CT,6033,Male,Single,US Citizen,No,Black or African American,732,hours,Terminated for Cause,IT/IS,Sr. DBA,Simon Roup,Vendor Referral,Fully Meets
+45,58.5,MA,2703,Female,Single,US Citizen,Yes,White,309,Another position,Voluntarily Terminated,IT/IS,Sr. DBA,Simon Roup,Vendor Referral,90-day meets
+66,54.1,CT,6033,Female,Married,US Citizen,No,White,1112,N/A - still employed,Leave of Absence,IT/IS,Sr. Network Engineer,Peter Monroe,Vendor Referral,Fully Meets
+32,56.2,MA,2169,Male,Married,US Citizen,No,White,1112,N/A - still employed,Leave of Absence,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,Fully Meets
+35,53.8,MA,1545,Male,Married,US Citizen,No,Asian,514,N/A - Has not started yet,Future Start,IT/IS,Sr. Network Engineer,Peter Monroe,On-campus Recruiting,N/A- too early to review
+52,53.0,CT,6278,Male,Single,US Citizen,No,White,1112,N/A - still employed,Active,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,90-day meets
+40,55.2,MA,2453,Female,Widowed,US Citizen,No,Asian,972,N/A - still employed,Active,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,N/A- too early to review
+35,60.0,MA,2030,Female,Single,US Citizen,No,Black or African American,3247,N/A - still employed,Active,Production       ,Director of Operations,Janet King,Other,Exceeds
+49,54.5,MA,2169,Male,Divorced,US Citizen,No,White,2309,N/A - still employed,Active,Production       ,Production Manager,Janet King,Employee Referral,Fully Meets
+48,50.5,MA,1901,Male,Single,US Citizen,No,Asian,311,retiring,Voluntarily Terminated,Production       ,Production Manager,Janet King,Billboard,Fully Meets
+34,55.0,MA,2169,Male,Single,US Citizen,No,White,668,N/A - still employed,Active,Production       ,Production Manager,Janet King,Pay Per Click - Google,Exceeds
+44,51.0,MA,1731,Female,Single,US Citizen,No,White,1165,N/A - still employed,Active,Production       ,Production Manager,Janet King,Search Engine - Google Bing Yahoo,Fully Meets
+36,54.0,MA,1752,Male,Divorced,US Citizen,No,White,908,N/A - still employed,Active,Production       ,Production Manager,Janet King,Employee Referral,Fully Meets
+45,48.5,MA,1890,Male,Married,US Citizen,No,White,1797,attendance,Terminated for Cause,Production       ,Production Manager,Janet King,Employee Referral,Fully Meets
+41,42.0,MA,2128,Male,Married,US Citizen,No,Asian,581,unhappy,Voluntarily Terminated,Production       ,Production Manager,Janet King,Other,Needs Improvement
+36,55.0,MA,2110,Female,Married,US Citizen,No,White,1518,N/A - still employed,Active,Production       ,Production Manager,Janet King,Website Banner Ads,Exceeds
+36,53.0,MA,2045,Male,Single,US Citizen,yes,Hispanic,1928,N/A - still employed,Active,Production       ,Production Manager,Janet King,Internet Search,Fully Meets
+41,38.5,MA,2030,Female,Married,US Citizen,No,White,2032,Another position,Voluntarily Terminated,Production       ,Production Manager,Janet King,Internet Search,Fully Meets
+42,52.0,MA,2451,Female,Married,US Citizen,No,White,1881,N/A - still employed,Active,Production       ,Production Manager,Janet King,Vendor Referral,Fully Meets
+42,53.0,MA,1803,Male,Divorced,US Citizen,No,White,2686,N/A - still employed,Active,Production       ,Production Manager,Janet King,Monster.com,Needs Improvement
+40,55.0,MA,1776,Female,Married,US Citizen,No,Black or African American,3244,N/A - still employed,Active,Production       ,Production Manager,Janet King,Billboard,Fully Meets
+62,33.5,MA,2478,Female,Married,US Citizen,No,Black or African American,98,Another position,Voluntarily Terminated,Production       ,Production Manager,Janet King,Diversity Job Fair,Fully Meets
+34,20.0,MA,1960,Male,Single,US Citizen,No,White,2336,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,MBTA ads,Exceeds
+29,21.0,MA,1886,Female,Married,US Citizen,No,White,3611,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Billboard,Fully Meets
+28,16.0,MA,2169,Female,Divorced,US Citizen,No,White,57,return to school,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Word of Mouth,N/A- too early to review
+41,23.0,MA,1844,Female,Single,US Citizen,No,White,2148,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,MBTA ads,Exceptional
+35,22.0,MA,2199,Male,Widowed,US Citizen,No,White,1518,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Employee Referral,N/A- too early to review
+48,22.0,MA,1902,Female,Single,US Citizen,No,Two or more races,3065,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Brannon Miller,Diversity Job Fair,Fully Meets
+44,17.0,MA,1902,Female,Married,US Citizen,Yes,Hispanic,2,Another position,Voluntarily Terminated,Production       ,Production Technician I,David Stanley,Diversity Job Fair,N/A- too early to review
+44,22.0,MA,2062,Male,Married,US Citizen,Yes,Asian,170,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Diversity Job Fair,90-day meets
+34,16.76,MA,1810,Male,Single,US Citizen,No,Two or more races,2106,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Social Networks - Facebook Twitter etc,Fully Meets
+40,18.0,MA,2747,Male,Divorced,US Citizen,No,White,194,Another position,Voluntarily Terminated,Production       ,Production Technician I,Michael Albert,On-line Web application,Fully Meets
+47,22.0,MA,1915,Female,Single,Eligible NonCitizen,No,White,2428,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets
+39,17.0,MA,2452,Male,Single,US Citizen,No,Asian,1602,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Webster Butler,MBTA ads,Fully Meets
+47,16.0,MA,2072,Male,Single,US Citizen,Yes,White,2064,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Word of Mouth,Fully Meets
+59,22.0,MA,2027,Female,Divorced,US Citizen,No,Asian,1560,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Billboard,Fully Meets
+28,16.0,MA,2031,Female,Married,US Citizen,No,White,1238,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Professional Society,Exceeds
+27,20.0,MA,1701,Female,Married,US Citizen,No,White,439,Another position,Voluntarily Terminated,Production       ,Production Technician I,David Stanley,Search Engine - Google Bing Yahoo,Fully Meets
+48,20.0,MA,2043,Female,Separated,US Citizen,No,Black or African American,1476,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Kissy Sullivan,Diversity Job Fair,Fully Meets
+35,20.0,MA,1701,Male,Single,US Citizen,No,Black or African American,1336,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,MBTA ads,Fully Meets
+67,16.0,MA,2763,Female,Single,US Citizen,No,White,1154,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Search Engine - Google Bing Yahoo,Fully Meets
+39,19.5,MA,2170,Female,Single,US Citizen,No,White,1294,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Internet Search,Fully Meets
+34,22.0,MA,1845,Male,Single,US Citizen,No,White,1602,N/A - still employed,Active,Production       ,Production Technician I,Webster Butler,Newspager/Magazine,Fully Meets
+34,21.0,MA,1775,Female,Single,US Citizen,No,White,1602,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Other,90-day meets
+30,22.0,MA,2044,Female,Single,Non-Citizen,No,Black or African American,2246,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Pay Per Click - Google,Fully Meets
+37,24.75,MA,2134,Male,Married,US Citizen,No,White,508,N/A - Has not started yet,Future Start,Production       ,Production Technician I,Brannon Miller,Employee Referral,Exceeds
+40,15.0,MA,2452,Male,Single,US Citizen,No,White,1602,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Employee Referral,Fully Meets
+38,15.0,MA,1880,Male,Single,US Citizen,No,Black or African American,440,performance,Terminated for Cause,Production       ,Production Technician I,Kissy Sullivan,MBTA ads,Needs Improvement
+41,15.75,MA,2189,Female,Married,US Citizen,Yes,White,1056,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Billboard,90-day meets
+31,19.75,MA,1821,Female,Single,US Citizen,No,White,508,N/A - Has not started yet,Future Start,Production       ,Production Technician I,Michael Albert,Newspager/Magazine,N/A- too early to review
+39,15.0,MA,2110,Female,Married,US Citizen,No,White,1973,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Billboard,Fully Meets
+40,23.5,MA,1810,Male,Married,US Citizen,No,White,1484,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Billboard,Fully Meets
+51,20.0,MA,2061,Male,Married,US Citizen,No,White,1238,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Professional Society,PIP
+35,21.0,MA,2180,Male,Single,US Citizen,No,White,1294,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Pay Per Click - Google,Fully Meets
+39,22.0,MA,2351,Female,Married,US Citizen,No,Black or African American,1784,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Pay Per Click - Google,Needs Improvement
+31,16.75,MA,2125,Female,Single,US Citizen,Yes,White,2064,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Monster.com,Fully Meets
+26,17.0,MA,2343,Female,Married,US Citizen,No,White,794,military,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Search Engine - Google Bing Yahoo,Fully Meets
+44,21.25,MA,2026,Male,Single,US Citizen,No,White,1112,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,MBTA ads,Fully Meets
+39,21.0,MA,2045,Male,Married,US Citizen,No,White,1336,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Employee Referral,90-day meets
+34,17.0,MA,2129,Male,Single,US Citizen,No,White,908,attendance,Terminated for Cause,Production       ,Production Technician I,Michael Albert,Word of Mouth,Needs Improvement
+29,18.0,MA,2458,Female,Single,US Citizen,No,White,8,"no-call, no-show",Terminated for Cause,Production       ,Production Technician I,Elijiah Gray,Word of Mouth,N/A- too early to review
+63,20.0,MA,2176,Female,Married,US Citizen,No,White,922,military,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Search Engine - Google Bing Yahoo,Fully Meets
+28,18.0,MA,2132,Male,Married,US Citizen,No,White,930,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Professional Society,N/A- too early to review
+31,23.0,MA,2176,Female,Single,US Citizen,No,White,2106,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Newspager/Magazine,Fully Meets
+37,24.0,MA,2155,Female,Married,US Citizen,No,White,2148,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Social Networks - Facebook Twitter etc,Fully Meets
+32,19.0,MA,1905,Male,Single,US Citizen,Yes,White,972,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Employee Referral,N/A- too early to review
+38,18.0,MA,1550,Male,Single,US Citizen,No,Asian,1602,N/A - still employed,Active,Production       ,Production Technician I,Kissy Sullivan,Professional Society,Fully Meets
+34,24.0,MA,2121,Female,Single,US Citizen,Yes,Black or African American,2386,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,MBTA ads,Fully Meets
+27,19.0,MA,2145,Female,Married,US Citizen,No,Black or African American,972,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Professional Society,N/A- too early to review
+48,22.0,MA,2330,Female,Divorced,US Citizen,No,White,8,hours,Voluntarily Terminated,Production       ,Production Technician I,Elijiah Gray,Diversity Job Fair,N/A- too early to review
+43,15.0,MA,2062,Male,Married,US Citizen,No,Black or African American,1179,military,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Diversity Job Fair,Needs Improvement
+38,16.0,MA,2451,Female,Single,US Citizen,Yes,Two or more races,1154,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Professional Society,Exceeds
+25,17.0,MA,2451,Female,Single,US Citizen,Yes,White,1476,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Glassdoor,Fully Meets
+48,16.0,MA,2108,Male,Divorced,US Citizen,No,American Indian or Alaska Native,2330,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Diversity Job Fair,Exceeds
+39,15.0,MA,2169,Male,Married,US Citizen,No,White,1973,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,MBTA ads,Fully Meets
+43,24.0,MA,1864,Female,Married,US Citizen,No,Asian,1560,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Kissy Sullivan,On-campus Recruiting,Fully Meets
+35,14.0,MA,2176,Female,Divorced,US Citizen,No,White,1055,more money,Voluntarily Terminated,Production       ,Production Technician I,Kelley Spirea,Monster.com,Fully Meets
+41,24.0,MA,2127,Female,Married,US Citizen,No,White,2190,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Word of Mouth,Fully Meets
+35,21.0,MA,1776,Male,Married,US Citizen,No,Asian,2022,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets
+65,19.75,MA,2324,Female,Single,US Citizen,No,White,1436,retiring,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Monster.com,Fully Meets
+44,20.0,MA,1886,Female,Married,US Citizen,No,White,1294,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Monster.com,Exceeds
+34,19.0,MA,2149,Male,Single,US Citizen,No,White,1931,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Social Networks - Facebook Twitter etc,90-day meets
+27,16.0,MA,1775,Female,Single,US Citizen,No,White,1560,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Professional Society,Fully Meets
+45,20.0,MA,2081,Female,Single,US Citizen,No,White,1847,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Newspager/Magazine,Fully Meets
+52,21.0,MA,1778,Female,Divorced,US Citizen,No,White,1518,N/A - still employed,Active,Production       ,Production Technician I,Kissy Sullivan,Employee Referral,Fully Meets
+54,19.0,MA,2109,Female,Separated,US Citizen,No,White,1420,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,On-campus Recruiting,Fully Meets
+58,17.0,MA,2445,Male,Married,US Citizen,No,White,1635,more money,Voluntarily Terminated,Production       ,Production Technician I,Michael Albert,Monster.com,Exceeds
+32,21.0,MA,2446,Female,Married,US Citizen,No,White,1908,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Elijiah Gray,Monster.com,90-day meets
+42,19.0,MA,1887,Male,Single,US Citizen,No,White,1518,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Billboard,Fully Meets
+44,22.0,MA,2170,Female,Married,US Citizen,No,White,1347,more money,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Search Engine - Google Bing Yahoo,90-day meets
+47,24.0,MA,2127,Female,Married,US Citizen,No,White,105,more money,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Search Engine - Google Bing Yahoo,Fully Meets
+40,14.0,MA,1721,Male,Single,US Citizen,No,Black or African American,1378,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,On-campus Recruiting,Fully Meets
+38,21.0,MA,1801,Male,Married,US Citizen,No,Asian,2512,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Pay Per Click - Google,Fully Meets
+31,17.0,MA,2048,Male,Married,US Citizen,No,White,1966,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Newspager/Magazine,Fully Meets
+39,19.0,MA,1810,Female,Single,US Citizen,No,Asian,693,return to school,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Monster.com,Fully Meets
+36,15.0,MA,2050,Male,Single,US Citizen,No,White,164,attendance,Terminated for Cause,Production       ,Production Technician I,Kelley Spirea,Social Networks - Facebook Twitter etc,90-day meets
+37,15.25,MA,1886,Female,Married,US Citizen,No,White,83,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Michael Albert,Internet Search,N/A- too early to review
+42,20.0,MA,2122,Female,Married,US Citizen,No,Black or African American,1014,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Elijiah Gray,Website Banner Ads,90-day meets
+45,19.0,MA,1844,Female,Single,US Citizen,Yes,Two or more races,1468,Another position,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Diversity Job Fair,Exceeds
+45,15.0,MA,1938,Male,Widowed,US Citizen,No,White,2,hours,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Pay Per Click,N/A- too early to review
+31,17.0,MA,2189,Female,Single,US Citizen,No,White,1420,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Newspager/Magazine,Fully Meets
+43,23.0,MA,2451,Female,Married,US Citizen,No,White,1476,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,On-campus Recruiting,Fully Meets
+40,20.0,MA,2330,Female,Married,US Citizen,No,White,2371,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Other,90-day meets
+31,24.0,MA,2184,Female,Married,US Citizen,No,Black or African American,1784,N/A - still employed,Active,Production       ,Production Technician I,Kissy Sullivan,Monster.com,Fully Meets
+50,14.0,MA,1760,Female,Single,US Citizen,No,Black or African American,1318,Another position,Voluntarily Terminated,Production       ,Production Technician I,Kelley Spirea,Diversity Job Fair,Fully Meets
+41,20.0,MA,2346,Female,Single,US Citizen,No,White,972,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Monster.com,N/A- too early to review
+33,15.0,MA,2453,Female,Divorced,US Citizen,No,White,1700,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,MBTA ads,Fully Meets
+29,18.0,MA,2110,Male,Single,US Citizen,No,Black or African American,921,return to school,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Diversity Job Fair,Fully Meets
+35,22.0,MA,2421,Male,Married,US Citizen,No,White,1150,more money,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Employee Referral,Fully Meets
+41,21.0,MA,2136,Male,Married,US Citizen,No,White,1294,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Ketsia Liebig,On-campus Recruiting,Fully Meets
+51,15.0,MA,1810,Female,Separated,US Citizen,No,Asian,1700,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Diversity Job Fair,Exceeds
+33,19.0,MA,2132,Female,Single,US Citizen,No,White,1602,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Vendor Referral,Fully Meets
+37,18.5,MA,2152,Female,Single,US Citizen,No,Two or more races,762,performance,Terminated for Cause,Production       ,Production Technician I,Kissy Sullivan,Professional Society,PIP
+41,16.0,MA,2478,Male,Married,US Citizen,No,White,1518,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,On-campus Recruiting,Exceeds
+38,22.0,MA,1760,Male,Single,US Citizen,No,Black or African American,1378,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,MBTA ads,Needs Improvement
+39,18.0,MA,2351,Female,Married,US Citizen,No,White,1070,Another position,Voluntarily Terminated,Production       ,Production Technician I,Elijiah Gray,Social Networks - Facebook Twitter etc,Fully Meets
+30,24.0,MA,2458,Male,Single,US Citizen,No,Black or African American,718,career change,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Search Engine - Google Bing Yahoo,Needs Improvement
+31,22.0,MA,2176,Female,Single,US Citizen,No,White,1623,medical issues,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,MBTA ads,Fully Meets
+44,17.0,MA,1749,Female,Married,US Citizen,No,White,2771,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Search Engine - Google Bing Yahoo,Fully Meets
+30,18.0,MA,2451,Male,Married,US Citizen,No,White,514,more money,Voluntarily Terminated,Production       ,Production Technician I,Brannon Miller,Search Engine - Google Bing Yahoo,Fully Meets
+36,17.0,MA,2451,Male,Single,US Citizen,No,Black or African American,3674,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Search Engine - Google Bing Yahoo,Fully Meets
+33,19.0,MA,1742,Female,Divorced,Eligible NonCitizen,No,Asian,19,Another position,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Social Networks - Facebook Twitter etc,N/A- too early to review
+56,16.0,MA,2109,Male,Single,US Citizen,No,White,1420,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,Employee Referral,Fully Meets
+47,16.0,MA,2474,Female,Divorced,US Citizen,No,White,267,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Billboard,Fully Meets
+33,21.0,MA,2478,Male,Divorced,US Citizen,No,White,194,more money,Voluntarily Terminated,Production       ,Production Technician I,Michael Albert,Pay Per Click - Google,Fully Meets
+35,20.0,MA,2176,Male,Divorced,US Citizen,Yes,White,1705,retiring,Voluntarily Terminated,Production       ,Production Technician I,Elijiah Gray,Professional Society,Fully Meets
+45,22.0,MA,2171,Female,Married,US Citizen,No,Asian,2190,N/A - still employed,Active,Production       ,Production Technician I,Webster Butler,Search Engine - Google Bing Yahoo,Exceeds
+44,24.0,MA,1420,Male,Married,US Citizen,No,Black or African American,1842,attendance,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Glassdoor,Fully Meets
+33,16.0,MA,1460,Female,Married,US Citizen,No,White,1954,attendance,Terminated for Cause,Production       ,Production Technician I,Ketsia Liebig,Glassdoor,Needs Improvement
+33,17.0,MA,1730,Male,Widowed,US Citizen,No,White,1602,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Employee Referral,Exceptional
+43,17.0,MA,1886,Female,Separated,US Citizen,No,White,1420,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Website Banner Ads,Fully Meets
+31,18.0,MA,2155,Male,Single,US Citizen,No,White,497,Another position,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Search Engine - Google Bing Yahoo,Fully Meets
+50,20.0,MA,1801,Female,Single,US Citizen,No,Black or African American,510,N/A - Has not started yet,Future Start,Production       ,Production Technician I,Kelley Spirea,Diversity Job Fair,N/A- too early to review
+43,21.0,MA,2148,Male,Single,US Citizen,No,White,571,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,Michael Albert,Word of Mouth,Fully Meets
+29,21.0,MA,2154,Female,Married,US Citizen,No,Black or African American,1154,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,On-campus Recruiting,Fully Meets
+43,15.2,MA,2191,Female,Single,US Citizen,No,Asian,1518,N/A - still employed,Leave of Absence,Production       ,Production Technician I,Webster Butler,Search Engine - Google Bing Yahoo,Fully Meets
+32,15.0,MA,2149,Female,Married,US Citizen,No,White,1560,N/A - still employed,Active,Production       ,Production Technician I,Amy Dunn,Newspager/Magazine,Fully Meets
+53,24.5,MA,2130,Female,Single,US Citizen,No,White,1476,N/A - still employed,Active,Production       ,Production Technician I,Ketsia Liebig,Employee Referral,Fully Meets
+49,16.0,MA,2093,Female,Married,US Citizen,No,White,2106,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Billboard,PIP
+45,21.0,MA,2359,Female,Divorced,US Citizen,No,White,777,unhappy,Voluntarily Terminated,Production       ,Production Technician I,David Stanley,MBTA ads,Exceeds
+35,14.0,MA,2050,Female,Divorced,US Citizen,No,Two or more races,2512,N/A - still employed,Active,Production       ,Production Technician I,Kissy Sullivan,Word of Mouth,Fully Meets
+33,22.0,MA,2301,Male,Married,US Citizen,No,Asian,1378,N/A - still employed,Active,Production       ,Production Technician I,Kelley Spirea,On-campus Recruiting,Fully Meets
+35,19.0,MA,2747,Male,Married,US Citizen,Yes,White,1056,N/A - still employed,Active,Production       ,Production Technician I,Michael Albert,Word of Mouth,90-day meets
+49,14.0,MA,2718,Female,Single,Eligible NonCitizen,No,Asian,2022,N/A - still employed,Active,Production       ,Production Technician I,Elijiah Gray,Glassdoor,Fully Meets
+43,15.0,MA,1801,Female,Married,Non-Citizen,No,Two or more races,1435,Another position,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Diversity Job Fair,Fully Meets
+53,20.0,MA,2066,Female,Single,US Citizen,No,White,62,return to school,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Billboard,N/A- too early to review
+34,20.0,MA,1876,Female,Divorced,US Citizen,No,White,124,Another position,Voluntarily Terminated,Production       ,Production Technician I,Ketsia Liebig,Social Networks - Facebook Twitter etc,90-day meets
+51,24.0,MA,2093,Female,Divorced,US Citizen,No,Black or African American,1742,N/A - still employed,Active,Production       ,Production Technician I,Brannon Miller,Billboard,Fully Meets
+35,22.0,MA,2021,Female,Single,US Citizen,No,White,1378,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,Professional Society,N/A- too early to review
+31,19.0,MA,2171,Male,Divorced,US Citizen,No,White,1271,maternity leave - did not return,Voluntarily Terminated,Production       ,Production Technician I,Kissy Sullivan,Information Session,Exceeds
+32,21.0,MA,2747,Female,Married,US Citizen,No,White,1596,gross misconduct,Terminated for Cause,Production       ,Production Technician I,Kelley Spirea,Social Networks - Facebook Twitter etc,Exceeds
+33,20.0,MA,2124,Female,Single,US Citizen,No,White,875,N/A - Has not started yet,Future Start,Production       ,Production Technician I,Michael Albert,Newspager/Magazine,N/A- too early to review
+37,15.0,MA,1887,Female,Single,US Citizen,No,White,1114,career change,Voluntarily Terminated,Production       ,Production Technician I,Elijiah Gray,Monster.com,Needs Improvement
+31,23.0,MA,2030,Male,Single,US Citizen,Yes,White,125,hours,Voluntarily Terminated,Production       ,Production Technician I,Webster Butler,Newspager/Magazine,90-day meets
+52,21.0,MA,2324,Male,Married,Eligible NonCitizen,No,White,1575,unhappy,Voluntarily Terminated,Production       ,Production Technician I,Amy Dunn,Website Banner Ads,Fully Meets
+48,16.0,MA,2109,Female,Single,US Citizen,Yes,Two or more races,1265,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,Ketsia Liebig,Diversity Job Fair,Fully Meets
+36,22.0,MA,2458,Female,Single,US Citizen,No,Asian,2583,Another position,Voluntarily Terminated,Production       ,Production Technician I,Brannon Miller,Search Engine - Google Bing Yahoo,PIP
+39,15.0,MA,1730,Female,Widowed,US Citizen,No,Asian,1154,N/A - still employed,Active,Production       ,Production Technician I,David Stanley,On-campus Recruiting,Fully Meets
+29,29.0,MA,1810,Female,Married,US Citizen,No,White,447,hours,Voluntarily Terminated,Production       ,Production Technician II,Kissy Sullivan,Newspager/Magazine,90-day meets
+52,27.0,MA,2145,Female,Married,US Citizen,No,White,493,N/A - Has not started yet,Future Start,Production       ,Production Technician II,Kelley Spirea,Employee Referral,Exceeds
+27,27.0,MA,2171,Female,Single,US Citizen,No,White,2428,N/A - still employed,Active,Production       ,Production Technician II,Michael Albert,Monster.com,Needs Improvement
+51,26.0,MA,2210,Female,Single,US Citizen,No,White,1180,career change,Voluntarily Terminated,Production       ,Production Technician II,Elijiah Gray,Search Engine - Google Bing Yahoo,90-day meets
+34,22.0,MA,1013,Male,Single,US Citizen,No,White,1154,N/A - still employed,Active,Production       ,Production Technician II,Webster Butler,Word of Mouth,Fully Meets
+38,25.0,MA,2148,Female,Single,US Citizen,No,Black or African American,2092,N/A - still employed,Active,Production       ,Production Technician II,Amy Dunn,Employee Referral,Fully Meets
+40,26.0,MA,1890,Male,Married,US Citizen,No,White,2428,N/A - still employed,Active,Production       ,Production Technician II,Ketsia Liebig,Careerbuilder,Fully Meets
+36,25.0,MA,1752,Female,Married,US Citizen,No,White,602,unhappy,Voluntarily Terminated,Production       ,Production Technician II,Brannon Miller,Word of Mouth,90-day meets
+39,26.0,MA,2169,Male,Married,US Citizen,No,White,392,career change,Voluntarily Terminated,Production       ,Production Technician II,David Stanley,Other,Fully Meets
+38,25.0,MA,2458,Male,Single,Eligible NonCitizen,No,Two or more races,2211,N/A - still employed,Active,Production       ,Production Technician II,Kissy Sullivan,Newspager/Magazine,90-day meets
+67,29.0,MA,2343,Female,Separated,US Citizen,No,Black or African American,1675,more money,Voluntarily Terminated,Production       ,Production Technician II,Kelley Spirea,Search Engine - Google Bing Yahoo,Fully Meets
+28,24.0,MA,2133,Female,Separated,US Citizen,No,White,1238,N/A - still employed,Active,Production       ,Production Technician II,Michael Albert,Pay Per Click - Google,PIP
+39,27.0,MA,1824,Female,Married,US Citizen,No,Black or African American,1238,N/A - still employed,Active,Production       ,Production Technician II,Elijiah Gray,Professional Society,Fully Meets
+30,24.0,MA,2324,Female,Single,US Citizen,No,Black or African American,1378,N/A - still employed,Active,Production       ,Production Technician II,Webster Butler,Newspager/Magazine,Fully Meets
+36,29.0,MA,2143,Male,Single,US Citizen,Yes,White,770,hours,Voluntarily Terminated,Production       ,Production Technician II,Amy Dunn,Social Networks - Facebook Twitter etc,Fully Meets
+34,24.0,MA,2170,Female,Married,US Citizen,No,White,280,career change,Voluntarily Terminated,Production       ,Production Technician II,Ketsia Liebig,Word of Mouth,Fully Meets
+53,29.0,MA,2128,Male,Married,US Citizen,No,Black or African American,399,career change,Voluntarily Terminated,Production       ,Production Technician II,Brannon Miller,Diversity Job Fair,PIP
+32,24.25,MA,1886,Female,Married,US Citizen,No,White,1294,N/A - still employed,Leave of Absence,Production       ,Production Technician II,David Stanley,Professional Society,Fully Meets
+34,27.0,MA,1824,Female,Separated,US Citizen,No,American Indian or Alaska Native,1518,N/A - still employed,Leave of Absence,Production       ,Production Technician II,Kissy Sullivan,Word of Mouth,Fully Meets
+29,24.0,MA,2155,Male,Single,US Citizen,Yes,White,1476,N/A - still employed,Active,Production       ,Production Technician II,Kelley Spirea,Newspager/Magazine,Fully Meets
+45,24.0,MA,2021,Female,Single,US Citizen,No,White,770,hours,Voluntarily Terminated,Production       ,Production Technician II,Kelley Spirea,Monster.com,Fully Meets
+34,28.0,MA,2445,Female,Married,Non-Citizen,No,White,236,relocation out of area,Voluntarily Terminated,Production       ,Production Technician II,Michael Albert,Glassdoor,Fully Meets
+34,25.0,MA,2021,Female,Single,US Citizen,No,White,538,N/A - Has not started yet,Future Start,Production       ,Production Technician II,Elijiah Gray,Vendor Referral,N/A- too early to review
+26,28.0,MA,2351,Female,Separated,US Citizen,No,White,905,N/A - Has not started yet,Future Start,Production       ,Production Technician II,Webster Butler,Other,N/A- too early to review
+41,23.0,MA,1742,Female,Divorced,US Citizen,No,White,770,unhappy,Voluntarily Terminated,Production       ,Production Technician II,Amy Dunn,Search Engine - Google Bing Yahoo,Fully Meets
+31,22.5,MA,1821,Female,Divorced,US Citizen,No,American Indian or Alaska Native,2336,N/A - still employed,Active,Production       ,Production Technician II,Ketsia Liebig,MBTA ads,Exceeds
+48,25.0,MA,2128,Female,Single,US Citizen,No,White,1238,N/A - still employed,Active,Production       ,Production Technician II,Brannon Miller,Professional Society,Exceptional
+38,22.0,MA,2090,Female,Divorced,US Citizen,No,Asian,448,Another position,Voluntarily Terminated,Production       ,Production Technician II,David Stanley,Glassdoor,Fully Meets
+34,28.0,MA,2126,Male,Married,US Citizen,No,White,378,more money,Voluntarily Terminated,Production       ,Production Technician II,Kissy Sullivan,Word of Mouth,Fully Meets
+39,22.0,MA,1770,Male,Married,US Citizen,No,White,1602,N/A - still employed,Leave of Absence,Production       ,Production Technician II,Kelley Spirea,Information Session,Fully Meets
+41,24.0,MA,2122,Female,Widowed,US Citizen,No,White,69,more money,Voluntarily Terminated,Production       ,Production Technician II,Michael Albert,On-campus Recruiting,N/A- too early to review
+36,26.1,MA,2324,Female,Single,US Citizen,No,Black or African American,1560,N/A - still employed,Active,Production       ,Production Technician II,Elijiah Gray,Glassdoor,Exceeds
+41,23.0,MA,2324,Female,Married,US Citizen,No,White,564,N/A - Has not started yet,Future Start,Production       ,Production Technician II,Webster Butler,Vendor Referral,N/A- too early to review
+31,23.0,MA,2176,Female,Married,US Citizen,No,Two or more races,45,Another position,Voluntarily Terminated,Production       ,Production Technician II,Amy Dunn,Newspager/Magazine,N/A- too early to review
+31,26.0,MA,2149,Female,Single,US Citizen,No,White,972,N/A - still employed,Active,Production       ,Production Technician II,Ketsia Liebig,Newspager/Magazine,N/A- too early to review
+32,25.0,MA,2472,Male,Single,US Citizen,No,White,1116,unhappy,Voluntarily Terminated,Production       ,Production Technician II,Brannon Miller,MBTA ads,PIP
+25,27.0,MA,1450,Male,Married,US Citizen,No,White,2211,N/A - still employed,Active,Production       ,Production Technician II,David Stanley,Professional Society,Fully Meets
+48,25.0,MA,2126,Female,Single,US Citizen,No,Black or African American,1658,N/A - still employed,Active,Production       ,Production Technician II,Kissy Sullivan,Billboard,Exceptional
+41,26.0,MA,2127,Male,Single,US Citizen,No,Hispanic,2148,N/A - still employed,Leave of Absence,Production       ,Production Technician II,Kelley Spirea,Diversity Job Fair,Fully Meets
+43,29.0,MA,1460,Male,Separated,US Citizen,No,Black or African American,1658,N/A - still employed,Active,Production       ,Production Technician II,Michael Albert,On-campus Recruiting,Fully Meets
+32,26.39,MA,1040,Female,Single,US Citizen,No,White,1112,N/A - still employed,Active,Production       ,Production Technician II,Elijiah Gray,Glassdoor,Fully Meets
+66,25.0,MA,2492,Female,Married,US Citizen,No,Asian,462,unhappy,Voluntarily Terminated,Production       ,Production Technician II,Webster Butler,Newspager/Magazine,90-day meets
+28,28.0,MA,2472,Female,Married,US Citizen,No,Asian,72,unhappy,Voluntarily Terminated,Production       ,Production Technician II,Amy Dunn,Monster.com,N/A- too early to review
+31,29.0,MA,1886,Female,Married,US Citizen,No,White,264,more money,Voluntarily Terminated,Production       ,Production Technician II,Ketsia Liebig,Pay Per Click - Google,Exceeds
+39,26.0,MA,2050,Female,Married,Eligible NonCitizen,No,Asian,2064,N/A - still employed,Active,Production       ,Production Technician II,Brannon Miller,MBTA ads,Fully Meets
+36,26.0,MA,1902,Female,Divorced,Eligible NonCitizen,No,White,26,return to school,Voluntarily Terminated,Production       ,Production Technician II,David Stanley,Search Engine - Google Bing Yahoo,N/A- too early to review
+45,22.0,MA,2138,Male,Married,US Citizen,No,White,218,Another position,Voluntarily Terminated,Production       ,Production Technician II,Kissy Sullivan,Glassdoor,Fully Meets
+32,29.0,MA,2062,Male,Married,US Citizen,No,White,2645,N/A - still employed,Active,Production       ,Production Technician II,Kelley Spirea,Monster.com,Fully Meets
+30,23.0,MA,1851,Female,Single,US Citizen,No,White,1990,maternity leave - did not return,Voluntarily Terminated,Production       ,Production Technician II,Michael Albert,Monster.com,Fully Meets
+54,22.0,MA,2045,Male,Single,US Citizen,No,White,1154,N/A - still employed,Active,Production       ,Production Technician II,Elijiah Gray,Pay Per Click - Google,Exceeds
+65,28.75,MA,2129,Female,Married,US Citizen,No,White,419,Another position,Voluntarily Terminated,Production       ,Production Technician II,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets
+42,23.0,MA,2472,Male,Widowed,US Citizen,No,White,1162,military,Voluntarily Terminated,Production       ,Production Technician II,Webster Butler,Pay Per Click - Google,Fully Meets
+33,22.0,MA,1778,Female,Single,US Citizen,No,White,539,unhappy,Voluntarily Terminated,Production       ,Production Technician II,Amy Dunn,Vendor Referral,Fully Meets
+42,22.0,MA,2459,Male,Single,US Citizen,No,Black or African American,1196,N/A - still employed,Active,Production       ,Production Technician II,Ketsia Liebig,Employee Referral,Fully Meets
+59,29.0,MA,2045,Male,Single,US Citizen,No,White,1140,retiring,Voluntarily Terminated,Production       ,Production Technician II,Brannon Miller,Professional Society,Exceeds
+33,22.0,MA,2302,Female,Single,US Citizen,No,White,1154,N/A - still employed,Active,Production       ,Production Technician II,David Stanley,Newspager/Magazine,Fully Meets
+33,24.25,MA,1810,Male,Single,US Citizen,No,White,1238,N/A - still employed,Active,Production       ,Production Technician II,Kissy Sullivan,Vendor Referral,Fully Meets
+42,55.0,MA,2330,Male,Married,US Citizen,No,White,1154,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Employee Referral,Fully Meets
+54,55.0,VA,21851,Female,Married,Eligible NonCitizen,No,Black or African American,1083,Another position,Voluntarily Terminated,Sales,Area Sales Manager,John Smith,Social Networks - Facebook Twitter etc,Fully Meets
+55,55.0,VT,5664,Female,Single,US Citizen,No,White,1196,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Billboard,Fully Meets
+29,55.0,CA,90007,Female,Single,US Citizen,No,White,2512,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Other,Exceeds
+31,55.0,WA,98052,Female,Single,US Citizen,Yes,White,2106,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Website Banner Ads,PIP
+29,56.0,NH,3062,Male,Married,US Citizen,No,American Indian or Alaska Native,1196,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Pay Per Click - Google,Fully Meets
+54,55.0,CT,6050,Male,Single,US Citizen,No,Black or African American,2273,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Monster.com,Fully Meets
+49,55.5,NY,10171,Male,Single,US Citizen,Yes,Two or more races,2456,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Diversity Job Fair,Fully Meets
+46,55.0,OH,43050,Female,Widowed,US Citizen,No,Black or African American,425,attendance,Terminated for Cause,Sales,Area Sales Manager,John Smith,Monster.com,Fully Meets
+28,55.0,IN,46204,Female,Single,US Citizen,No,White,1014,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Pay Per Click - Google,90-day meets
+63,55.5,ID,83706,Male,Married,US Citizen,No,White,1294,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Monster.com,Fully Meets
+49,55.0,TN,37129,Male,Single,US Citizen,No,Two or more races,1334,relocation out of area,Voluntarily Terminated,Sales,Area Sales Manager,John Smith,Newspager/Magazine,Fully Meets
+44,56.0,NV,89139,Male,Married,US Citizen,No,White,1294,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Website Banner Ads,PIP
+38,55.0,CO,80820,Male,Single,US Citizen,No,White,1560,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Pay Per Click - Google,Fully Meets
+29,55.0,UT,84111,Male,Separated,US Citizen,No,Black or African American,2036,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Website Banner Ads,Fully Meets
+47,56.0,TX,78207,Male,Single,Eligible NonCitizen,No,Black or African American,2022,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Employee Referral,Fully Meets
+33,55.0,TX,78789,Male,Married,US Citizen,No,Two or more races,508,N/A - Has not started yet,Future Start,Sales,Area Sales Manager,Lynn Daneault,Website Banner Ads,N/A- too early to review
+42,55.0,AL,36006,Male,Single,US Citizen,No,Two or more races,1154,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Internet Search,Needs Improvement
+29,55.0,GA,30428,Female,Single,US Citizen,No,Two or more races,1602,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Pay Per Click - Google,Fully Meets
+28,57.0,FL,33174,Female,Single,US Citizen,Yes,White,1518,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Pay Per Click - Google,Fully Meets
+36,55.0,NC,27229,Male,Single,US Citizen,No,White,1056,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Website Banner Ads,90-day meets
+29,55.0,KY,40220,Female,Married,US Citizen,No,Black or African American,2148,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Website Banner Ads,Fully Meets
+50,55.0,ND,58782,Male,Separated,US Citizen,No,White,4339,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Billboard,Exceeds
+29,54.0,MT,59102,Female,Married,US Citizen,No,Black or African American,2617,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Professional Society,Fully Meets
+53,55.0,OR,97756,Female,Single,US Citizen,No,Black or African American,1154,N/A - still employed,Active,Sales,Area Sales Manager,Lynn Daneault,Monster.com,Fully Meets
+27,55.0,AZ,85006,Female,Married,US Citizen,No,Two or more races,2336,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Other,Fully Meets
+28,56.0,ME,4063,Male,Single,US Citizen,No,Asian,2092,N/A - still employed,Active,Sales,Area Sales Manager,John Smith,Website Banner Ads,Fully Meets
+52,60.0,RI,2908,Female,Married,US Citizen,No,White,1301,N/A - still employed,Active,Sales,Director of Sales,Janet King,MBTA ads,Fully Meets
+28,54.0,VT,5473,Female,Single,US Citizen,No,White,1301,N/A - still employed,Active,Sales,Sales Manager,Debra Houlihan,Pay Per Click - Google,Fully Meets
+28,60.25,PA,19444,Female,Single,US Citizen,No,White,899,maternity leave - did not return,Voluntarily Terminated,Sales,Sales Manager,Debra Houlihan,Social Networks - Facebook Twitter etc,Fully Meets
+33,56.0,MA,1886,Male,Divorced,US Citizen,No,Black or African American,1288,N/A - still employed,Active,Sales,Sales Manager,Debra Houlihan,Diversity Job Fair,Needs Improvement
+39,47.6,MA,2110,Female,Single,US Citizen,No,White,1112,N/A - still employed,Active,Software Engineering,Software Engineer,Alex Sweetwater,Vendor Referral,Fully Meets
+31,56.0,MA,2132,Female,Single,US Citizen,No,White,1476,N/A - still employed,Active,Software Engineering,Software Engineer,Alex Sweetwater,Pay Per Click - Google,90-day meets
+38,57.12,MA,2176,Female,Single,US Citizen,No,Black or African American,2148,N/A - still employed,Active,Software Engineering,Software Engineer,Alex Sweetwater,Monster.com,90-day meets
+31,48.5,MA,1749,Female,Married,US Citizen,No,Black or African American,765,attendance,Terminated for Cause,Software Engineering,Software Engineer,Alex Sweetwater,Billboard,Needs Improvement
+30,55.51,MA,2135,Female,Single,US Citizen,No,Asian,1476,N/A - still employed,Active,Software Engineering,Software Engineer,Alex Sweetwater,Search Engine - Google Bing Yahoo,Fully Meets
+39,52.25,MA,1844,Male,Single,US Citizen,No,Asian,1400,Another position,Voluntarily Terminated,Software Engineering,Software Engineer,Alex Sweetwater,Diversity Job Fair,Exceeds
+31,49.25,MA,2132,Female,Married,US Citizen,No,White,1847,N/A - still employed,Active,Software Engineering,Software Engineer,Alex Sweetwater,Pay Per Click - Google,Fully Meets
+35,48.0,MA,2140,Male,Single,US Citizen,No,White,1238,N/A - still employed,Active,Software Engineering,Software Engineer,Alex Sweetwater,MBTA ads,Exceptional
+34,45.42,MA,2451,Male,Single,Non-Citizen,No,Black or African American,421,medical issues,Voluntarily Terminated,Software Engineering,Software Engineer,Alex Sweetwater,Diversity Job Fair,Fully Meets
+51,27.0,MA,2184,Male,Single,US Citizen,No,White,2295,N/A - still employed,Active,Software Engineering,Software Engineering Manager,Jennifer Zamora,Search Engine - Google Bing Yahoo,Fully Meets
+46,63.5,MA,2045,Male,Married,US Citizen,No,White,446,N/A - still employed,Active,IT/IS,BI Director,Jennifer Zamora,Professional Society,Fully Meets
+30,50.25,MA,1886,Female,Single,US Citizen,No,Asian,420,N/A - still employed,Active,IT/IS,Senior BI Developer,Brian Champaigne,Indeed,Fully Meets
+38,45.0,MA,2110,Female,Married,US Citizen,No,Black or African American,420,N/A - still employed,Active,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets
+45,55.0,MA,2056,Female,Single,US Citizen,No,Black or African American,323,N/A - still employed,Active,IT/IS,Data Architect,Brian Champaigne,Indeed,Fully Meets
+48,52.25,MA,2056,Male,Single,US Citizen,No,Asian,289,N/A - still employed,Active,IT/IS,Senior BI Developer,Brian Champaigne,Indeed,Fully Meets
+36,51.0,MA,1887,Male,Single,US Citizen,No,Asian,284,N/A - still employed,Active,IT/IS,Senior BI Developer,Brian Champaigne,Indeed,Fully Meets
+34,46.0,MA,2045,Male,Single,US Citizen,No,White,284,N/A - still employed,Active,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets
+30,45.0,MA,2134,Male,Married,US Citizen,No,White,220,N/A - still employed,Active,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets
+28,45.0,MA,2134,Male,Married,US Citizen,No,Black or African American,220,N/A - still employed,Active,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets
