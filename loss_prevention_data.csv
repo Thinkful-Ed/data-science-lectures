@@ -1,0 +1,7 @@
+item,item_dept,item_cost,num_thefts,date
+cell phone,electronics,399,6,1_Jun
+razor,personal_care,4.92,2,1_Jun
+cell phone,electronics,399,4,2_Jun
+phone_charger,electronics,6.99,1,2_Jun
+sunscreen,personal_care,7.98,1,3_Jun
+cell phone,electronics,399,8,4_Jun
