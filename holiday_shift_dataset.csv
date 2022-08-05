@@ -1,0 +1,7 @@
+﻿date,shift,num_employees,full_time_employees,part_time_employees,total_hours
+20-Nov,day,24,20,4,176
+20-Nov,night,12,6,6,72
+21-Nov,day,26,24,2,200
+21-Nov,night,12,6,6,72
+22-Nov,day,40,40,0,320
+22-Nov,night,22,14,8,232
