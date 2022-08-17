@@ -1,21 +1,21 @@
 ﻿item,dept,discount
-earbuds,electronics,16
-mug,home,20
-collar,pet,22
-pens,school,21
-bowl,pet,16
-backpack,school,18
-cell case,electronics,25
-plates,home,18
-can opener,home,24
-toaster,home,19
-treats,pet,24
-blanket,pet,25
-squeaky toy,pet,25
-highlighters,school,15
-charger,electronics,20
-oven mitts,home,24
-folders,school,17
-candle,home,15
-frame,home,25
-cleaner,pet,17
+earbuds,electronics,10
+mug,home,50
+collar,pet,30
+pens,school,50
+bowl,pet,10
+backpack,school,50
+cell case,electronics,10
+plates,home,50
+can opener,home,40
+toaster,home,20
+treats,pet,50
+blanket,pet,20
+squeaky toy,pet,30
+highlighters,school,40
+charger,electronics,10
+oven mitts,home,50
+folders,school,40
+candle,home,50
+frame,home,10
+cleaner,pet,40
