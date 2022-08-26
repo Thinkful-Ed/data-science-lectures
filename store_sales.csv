@@ -1,0 +1,6 @@
+Item,num_jan_orders,num_feb_orders,num_mar_orders,num_apr_orders,num_may_orders,num_jun_orders,num_jul_orders,num_aug_orders,num_sep_orders,num_oct_orders,num_nov_orders,num_dec_orders
+Burrito,"3,201","3,265",3354,3388,3402,"3,427",3632,3511,3486,3398,3284,3250
+Burrito Bowl,2472,2543,2678,2722,2809,2984,3463,3014,3120,2874,2216,1802
+Quesadilla,435,498,567,465,382,278,314,306,418,398,452,514
+Salad,108,218,345,399,642,982,1204,1113,745,462,300,209
+Tacos,678,542,600,592,532,612,709,752,610,602,595,513
