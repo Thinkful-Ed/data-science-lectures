@@ -1,0 +1,11 @@
+store_location,emp_rating,num_emp,avg_emp_years,store_profits,emp_break_room
+Atlanta,1.2,57,2,1528795,No
+Austin,1.5,92,4,2399494,No
+Boston,2,41,5,1405611,No
+Chicago,2.3,45,7,1938167,Yes
+Denver,3.1,37,8,3227887,No
+Detroit,3.4,62,9,2086244,No
+Miami,3.5,70,11,4460889,Yes
+Portland,4.2,51,12,3650748,Yes
+San Francisco,4.7,40,12,4196692,Yes
+Seattle,5,58,14,2080107,Yes
