@@ -1,0 +1,10 @@
+store_loc,num_emp,avg_emp_tenure_in_years,avg_emp_rating,emp_break_room
+Atlanta,17,1,3,No
+Austin,12,6,4,Yes
+Chicago,22,3,3,Yes
+Denver,21,5,4,No
+Detroit,10,1,2,No
+Miami,30,2,3,No
+Portland,13,4,4,Yes
+San Francisco,20,1,1,No
+Seattle,25,10,5,Yes
